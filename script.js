@@ -1,9 +1,9 @@
 let day = document.querySelector('.day'); let dotInterval;
 const dayVariants = {
     "الأحد": ["Sun-dazed", "Sun-donut", "Sun-dumb"],
-    "الإثنين": ["Mon-depressed", "Moan-day", "Mondoom"],
+    "الاثنين": ["Mon-depressed", "Moan-day", "Mondoom"],
     "الثلاثاء": ["Tues-donkey", "Twos-day", "Tuna-slay"],
-    "الأربعاء": ["Wednes-dazed", "Wet-nosed", "Wend-snake"],
+    "الاربعاء": ["Wednes-dazed", "Wet-nosed", "Wend-snake"],
     "الخميس": ["Thirst-day", "Thunderthigh", "Thuds-day"],
     "الجمعة": ["الجمعة"],
     "السبت": ["Satur-doom", "Sadder-day", "Sat-on-dog"]
